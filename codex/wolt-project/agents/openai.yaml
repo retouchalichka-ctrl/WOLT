@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wolt Project"
+  short_description: "Portable Wolt ads: idea, prompts, workflow"
+  brand_color: "#00C2E8"
+  default_prompt: "Use $wolt-project to develop this Wolt brief or idea in standalone mode, or manage it through approval and delivery when a Wolt workspace is present."

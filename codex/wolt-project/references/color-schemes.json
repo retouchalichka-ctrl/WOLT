@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "status": "Project-authored combinations of official Wolt colors; not official preapproved Wolt schemes.",
+  "source": "https://wolt.bynder.com/guidelines/guide/ca370108-fb1e-4a70-bb9c-02e093a1b419/page/40e2c93f-3b58-4d17-ba2a-93d6da963ac3",
+  "verified_on": "2026-09-09",
+  "palette": {
+    "Wolt Blue": "#00C2E8",
+    "Blueberry Blue": "#021738",
+    "Milk White": "#F8F8F8",
+    "Lime Green": "#A1CE47",
+    "Banana Yellow": "#FCC34C",
+    "Pumpkin Orange": "#FF834F",
+    "Raspberry Pink": "#F294CD",
+    "Light Lime Green": "#ECFED2",
+    "Light Banana Yellow": "#FFF8DE",
+    "Light Pumpkin Orange": "#FFF6F1",
+    "Light Raspberry Pink": "#FEF5FA"
+  },
+  "schemes": [
+    {
+      "id": "C01",
+      "title_ru": "Лёгкий дом",
+      "title_en": "Home / light & playful",
+      "use_ru": "Интерьеры · спокойная база, живые детали",
+      "colors": [
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Светлая база"
+        },
+        {
+          "name": "Light Pumpkin Orange",
+          "hex": "#FFF6F1",
+          "role_ru": "Мягкая деталь"
+        },
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Фирменный акцент"
+        },
+        {
+          "name": "Raspberry Pink",
+          "hex": "#F294CD",
+          "role_ru": "Малый акцент"
+        }
+      ],
+      "application_ru": "Светлая гостиная или кухня: нейтральные стены и дерево; голубая лампа либо небольшой текстиль, одна розовая деталь. Цветная мебель допустима, но не весь комплект одновременно.",
+      "avoid_ru": "Не красить всю комнату в фирменные цвета и не собирать пёстрые узоры.",
+      "prompt_cue_en": "Light home interior with Milk White #F8F8F8 neutrals, a small Light Pumpkin Orange #FFF6F1 detail, one Wolt Blue #00C2E8 prop and a restrained Raspberry Pink #F294CD accent."
+    },
+    {
+      "id": "C02",
+      "title_ru": "Тёплая еда",
+      "title_en": "Food / warm contrast",
+      "use_ru": "Пицца · выпечка · тёплая золотистая еда",
+      "colors": [
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Тарелка / база"
+        },
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Прохладный акцент"
+        },
+        {
+          "name": "Banana Yellow",
+          "hex": "#FCC34C",
+          "role_ru": "Малый тёплый акцент"
+        },
+        {
+          "name": "Blueberry Blue",
+          "hex": "#021738",
+          "role_ru": "Тёмная деталь"
+        }
+      ],
+      "application_ru": "Для золотистой корочки и красного соуса: светлая тарелка, маленький голубой реквизит, жёлтый штрих подальше от еды; тёмный оттенок в небольшой детали. Фактура еды — главный контраст.",
+      "avoid_ru": "Не делать жёлтое блюдо на жёлтом фоне; не окрашивать еду ради палитры.",
+      "prompt_cue_en": "Milk White #F8F8F8 tableware separates warm food from a small Wolt Blue #00C2E8 prop; restrained Banana Yellow #FCC34C and Blueberry Blue #021738 details stay away from the food silhouette."
+    },
+    {
+      "id": "C03",
+      "title_ru": "Свежесть",
+      "title_en": "Fresh / garden accent",
+      "use_ru": "Овощи · groceries · свежие продукты",
+      "colors": [
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Чистая база"
+        },
+        {
+          "name": "Light Lime Green",
+          "hex": "#ECFED2",
+          "role_ru": "Мягкая деталь"
+        },
+        {
+          "name": "Lime Green",
+          "hex": "#A1CE47",
+          "role_ru": "Свежий акцент"
+        },
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Фирменный акцент"
+        }
+      ],
+      "application_ru": "Овощи, фрукты и свежие продукты на светлой базе; небольшая зелёная деталь и голубой предмет разделены в композиции. Натуральная зелень остаётся естественной.",
+      "avoid_ru": "Не сливать зелёную еду с зелёной опорой: под героем оставить нейтральный участок.",
+      "prompt_cue_en": "Milk White #F8F8F8 around the food, one Light Lime Green #ECFED2 detail, sparse Lime Green #A1CE47 and Wolt Blue #00C2E8 props; preserve separation from natural greens."
+    },
+    {
+      "id": "C04",
+      "title_ru": "Ягодный акцент",
+      "title_en": "Sweet / berry accent",
+      "use_ru": "Десерты · ягоды · напитки",
+      "colors": [
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Нейтральная база"
+        },
+        {
+          "name": "Light Raspberry Pink",
+          "hex": "#FEF5FA",
+          "role_ru": "Мягкая деталь"
+        },
+        {
+          "name": "Raspberry Pink",
+          "hex": "#F294CD",
+          "role_ru": "Ягодный акцент"
+        },
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Прохладный акцент"
+        }
+      ],
+      "application_ru": "Светлая посуда для десертов; розовый текстиль или один предмет, голубой акцент для контраста. Под розовыми ягодами или кремом — нейтральный фон.",
+      "avoid_ru": "Не превращать весь кадр в пастельную дымку, не усиливать цвет крема искусственно.",
+      "prompt_cue_en": "Milk White #F8F8F8 tableware, a small Light Raspberry Pink #FEF5FA textile detail, restrained Raspberry Pink #F294CD and Wolt Blue #00C2E8 props; natural dessert colors stay dominant."
+    },
+    {
+      "id": "C05",
+      "title_ru": "Солнечное утро",
+      "title_en": "Morning / sunny accent",
+      "use_ru": "Завтрак · цитрусы · дневные сцены",
+      "colors": [
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Светлая база"
+        },
+        {
+          "name": "Light Banana Yellow",
+          "hex": "#FFF8DE",
+          "role_ru": "Мягкая деталь"
+        },
+        {
+          "name": "Pumpkin Orange",
+          "hex": "#FF834F",
+          "role_ru": "Солнечный акцент"
+        },
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Прохладный акцент"
+        }
+      ],
+      "application_ru": "Открытый дневной свет; маленькая светло-жёлтая деталь, оранжевая керамика вдали от цитрусов или выпечки, голубой акцент. Цвет не заменяет правдоподобный солнечный свет.",
+      "avoid_ru": "Не ставить оранжевую еду на оранжевый фон; не использовать цветные световые заливки.",
+      "prompt_cue_en": "Bright daylight with Milk White #F8F8F8 neutrals, a Light Banana Yellow #FFF8DE detail, one Pumpkin Orange #FF834F ceramic prop and a small Wolt Blue #00C2E8 accent."
+    },
+    {
+      "id": "C06",
+      "title_ru": "Игривый образ",
+      "title_en": "Styling / playful detail",
+      "use_ru": "Одежда · lifestyle · персонаж в кадре",
+      "colors": [
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Светлое окружение"
+        },
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Один цветной элемент"
+        },
+        {
+          "name": "Raspberry Pink",
+          "hex": "#F294CD",
+          "role_ru": "Небольшая деталь"
+        },
+        {
+          "name": "Blueberry Blue",
+          "hex": "#021738",
+          "role_ru": "Контрастная деталь"
+        }
+      ],
+      "application_ru": "Один выразительный цветной элемент одежды или мебели, спокойное окружение, один небольшой контрастный аксессуар. Для курьера сохраняются утверждённый силуэт и кадрирование ниже подбородка.",
+      "avoid_ru": "Не копировать принты, бренды и костюмы референсов; не добавлять логотипы на одежду.",
+      "prompt_cue_en": "Milk White #F8F8F8 surroundings, one Wolt Blue #00C2E8 garment or furnishing, a small Raspberry Pink #F294CD detail and limited Blueberry Blue #021738 contrast; generic unbranded styling."
+    },
+    {
+      "id": "P01",
+      "title_ru": "Финальный пакшот",
+      "title_en": "Final / brand finish",
+      "use_ru": "Отдельный финал · тот же доставленный заказ",
+      "colors": [
+        {
+          "name": "Wolt Blue",
+          "hex": "#00C2E8",
+          "role_ru": "Фон финала"
+        },
+        {
+          "name": "Milk White",
+          "hex": "#F8F8F8",
+          "role_ru": "Посуда, если нужна"
+        },
+        {
+          "name": "Blueberry Blue",
+          "hex": "#021738",
+          "role_ru": "Малая деталь, опция"
+        }
+      ],
+      "application_ru": "Голубой фон, наполненный kraft-пакет и тот же набор товаров из сюжета. Еда, кожа, крафт и товары сохраняют натуральные цвета; посуда и детали необязательны.",
+      "avoid_ru": "Не одинокий пакет, не новый ассортимент, не отдельная logo-заставка. Цветовые доли интерьеру не задаются.",
+      "prompt_cue_en": "Final pack shot on Wolt Blue #00C2E8 with the loaded kraft bag and the same delivered items; optional Milk White #F8F8F8 tableware, natural product colors and clear copy space."
+    }
+  ]
+}
